@@ -17,7 +17,7 @@ export default function Footer() {
               André Schuhmacher
             </Link>. Using NyxbUI, and AceternityUI for inspiration.
             <br />
-            <Link className="text-blue-500" href="https://github.com/schuhmacherandre/schuhmacher-dev">
+            <Link className="text-blue-500" href="https://github.com/schuhmacherandre/schuhmacher.dev">
                 Source Code
             </Link>
           </span>
